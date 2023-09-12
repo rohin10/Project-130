@@ -1,0 +1,28 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow: 7px 7px 10px rgb(157, 238, 7);
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    margin-top:150px;
+    box-shadow:5px 5px 5px grey;
+    box-shadow: 1px 1px 38px #ffffff;
+    
+}
+body{
+    background-size: 100%;
+}
+#play_song{
+    background-color: rgb(175, 3, 3);
+    color:whitesmoke;
+    width: 30%;
+}
